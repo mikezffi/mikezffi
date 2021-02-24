@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mikezffi/mikezffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on some bootcamp projects and my own "portfolio" website " " <- TBD
 - 🌱 I’m currently learning React and Next.js, upgrading my front end skills before I got myself into the "deep stuff"
 - 👯 I’m looking to collaborate on game development and gamification projects. (Not much dev experience but BOY I have a lot of hours in the "testing" department.)
