@@ -25,12 +25,12 @@
 ### Backend
 
 ![C#](https://img.shields.io/badge/-C%23%20-green?logo=c-sharp&logoColor=white&style=square)
-![NODE]()
-![RAILS]()
+![NODE](https://img.shields.io/badge/-Node.js-2343853D?logo=node.js&logoColor=white&style=square)
+![RAILS](https://img.shields.io/badge/-Ruby-red?logo=ruby&logoColor=white&style=square)
 
 ### Others
 
-![Typescript]()
-![SASS]()
-![Docker]()
-![GitHub]()
+![Typescript](https://img.shields.io/badge/-Typescript-%23007ACC?logo=typescript&logoColor=white&style=square)
+![SASS](https://img.shields.io/badge/-SASS-pink?logo=sass&logoColor=white&style=square)
+![Docker](https://img.shields.io/badge/-Docker-%230db7ed?logo=docker&logoColor=white&style=square)
+![GitHub](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white&style=square)
