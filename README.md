@@ -15,7 +15,7 @@
 
 ### Frontend
 
-[[HTML5](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=square)]
+![HTML5](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=square)
 
 ### Backend
 
