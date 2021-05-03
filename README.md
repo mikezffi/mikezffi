@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello World, I'm mike!👋
+
+### I'm a Developer from Brasil!
 
 - 🔭 I’m currently working on some bootcamp projects and my own "portfolio" website: mikezffi.com
 - 🌱 I’m currently learning React and Next.js, upgrading my front end skills before I got into the "deep stuff"
