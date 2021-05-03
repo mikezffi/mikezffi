@@ -11,7 +11,8 @@
 
 ### Reach out
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-grey?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/mikezffi/)](https://www.linkedin.com/in/mikezffi/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-grey?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/mikezffi/)](https://www.linkedin.com/in/mikezffi/)
+[![Website](https://img.shields.io/badge/-My Website-blue?logo=mail&logoColor=white&style=flat-square)](https://www.mikezffi.com)
 
 ### Frontend
 
