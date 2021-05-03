@@ -18,9 +18,19 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=square)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=square)
+![Javascript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=white&style=square)
+![REACT](https://img.shields.io/badge/-ReactJS-61DAFB?logo=html5&logoColor=white&style=square)
+![NEXT](https://img.shields.io/badge/-NextJS-61DAFB?logo=react&logoColor=white&style=square)
 
 ### Backend
 
 ![C#](https://img.shields.io/badge/-C%23%20-green?logo=c-sharp&logoColor=white&style=square)
+![NODE]()
+![RAILS]()
 
 ### Others
+
+![Typescript]()
+![SASS]()
+![Docker]()
+![GitHub]()
