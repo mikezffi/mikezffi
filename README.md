@@ -15,8 +15,11 @@
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=square)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=square)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=square)
 
 ### Backend
+
+![C#](https://img.shields.io/badge/-C%23%20-green?logo=c-sharp&logoColor=white&style=square)
 
 ### Others
