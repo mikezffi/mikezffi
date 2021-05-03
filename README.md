@@ -12,7 +12,7 @@
 ### Reach out
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-grey?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/mikezffi/)](https://www.linkedin.com/in/mikezffi/)
-[![Website](https://img.shields.io/badge/-My Website-blue?logo=mail&logoColor=white&style=flat-square)](https://www.mikezffi.com)
+[![Website](https://img.shields.io/badge/-My-Website-blue?logo=mail&logoColor=white&style=flat-square&link=https://www.mikezffi.com)](https://www.mikezffi.com)
 
 ### Frontend
 
