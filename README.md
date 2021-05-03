@@ -11,4 +11,4 @@
 ### Reach out
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-grey?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/mikezffi/)](https://www.linkedin.com/in/mikezffi/)
-- 📫 You can e-mail me at: mikeaazuffi@gmail.com
+📫 You can e-mail me at: mikeaazuffi@gmail.com
