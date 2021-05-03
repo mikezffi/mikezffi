@@ -7,9 +7,16 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything I guess. I'm good at google.
 - ⚡ Fun fact: I once was part of a Teeterboard troupe in the circus. Yep, not enough IT action there.
+- 📫 mikeaazuffi@gmail.com
 
 ### Reach out
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-grey?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/mikezffi/)](https://www.linkedin.com/in/mikezffi/)
 
-📫 mikeaazuffi@gmail.com
+### Frontend
+
+https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=square
+
+### Backend
+
+### Others
