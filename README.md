@@ -2,8 +2,8 @@
 
 ## I'm a Developer from Brasil!
 
-- 🔭 I’m currently working on new projects to increase my portfolio
-- 🌱 I’m currently learning React/Next.js and Node, also Unreal Engine on my free time
+- 🔭 I’m currently working as a front-end developer at Gft Group.
+- 🌱 I’m currently learning Angular and .NET.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything I guess. I'm good at google.
 - ⚡ Fun fact: I once was part of a Teeterboard troupe in the circus. Yep, not enough IT action there.
