@@ -2,9 +2,9 @@
 
 ## I'm a Developer from Brasil!
 
-- 🔭 I’m currently working as a front-end developer at Gft Group.
-- 🌱 I’m currently learning Angular and .NET.
-- 👯 I’m looking to collaborate on open source
+- 🔭 I’m currently working as a back-end developer at Gft Group.
+- 🌱 I’m currently learning Microservices with .NET.
+- 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about anything I guess. I'm good at google.
 - ⚡ Fun fact: I once was part of a Teeterboard troupe in the circus. Yep, not enough IT action there.
 - 📫 mikeaazuffi@gmail.com
